@@ -27,7 +27,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  *
- * @author Bruno
+ * @author lenny
  */
 @RestController
 @RequestMapping("/fleettracker/api/fleet")

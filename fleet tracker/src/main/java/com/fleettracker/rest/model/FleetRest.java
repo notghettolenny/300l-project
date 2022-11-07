@@ -9,7 +9,7 @@ import com.fleettracker.entity.model.FleetCategory;
 
 /**
  *
- * @author Bruno
+ * @author lenny
  */
 public class FleetRest {
 

@@ -7,7 +7,7 @@ package com.fleettracker.exceptions;
 
 /**
  *
- * @author Bruno
+ * @author lenny
  */
 public class ResourceException extends RuntimeException {
 

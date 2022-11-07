@@ -7,7 +7,7 @@ package com.fleettracker;
 
 /**
  *
- * @author Bruno
+ * @author lenny
  */
 public class ApiResponse<T> {
 

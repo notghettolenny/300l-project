@@ -7,7 +7,7 @@ package com.fleettracker.entity.model;
 
 /**
  *
- * @author Bruno
+ * @author lenny
  */
 public enum FleetCategory {
     CAR("Car"),

@@ -13,7 +13,7 @@ import org.springframework.data.repository.CrudRepository;
 
 /**
  *
- * @author Bruno
+ * @author lenny
  */
 public interface FleetRepository extends CrudRepository<Fleet, Long> {
 

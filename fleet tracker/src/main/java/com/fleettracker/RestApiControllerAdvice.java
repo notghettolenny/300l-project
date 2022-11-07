@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author Bruno
+ * @author lenny
  */
 @ControllerAdvice(annotations = {RestController.class})
 public class RestApiControllerAdvice {
