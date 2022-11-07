@@ -12,7 +12,7 @@ import javax.persistence.PreUpdate;
 
 /**
  *
- * @author Bruno
+ * @author lenny
  */
 @MappedSuperclass
 public abstract class AuditModel extends BasicModel {
