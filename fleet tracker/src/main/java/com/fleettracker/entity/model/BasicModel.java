@@ -12,7 +12,7 @@ import javax.persistence.MappedSuperclass;
 
 /**
  *
- * @author Bruno
+ * @author lenny
  */
 @MappedSuperclass
 public abstract class BasicModel {
