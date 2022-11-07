@@ -11,7 +11,7 @@ import javax.persistence.Entity;
 
 /**
  *
- * @author Bruno
+ * @author lenny
  */
 @Entity
 public class Fleet extends AuditModel implements Serializable {
